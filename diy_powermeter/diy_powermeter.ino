@@ -1,9 +1,3 @@
-//the parts of this code regarding BLE communication are taken from this blog post:
-//https://teaandtechtime.com/arduino-ble-cycling-power-service/
-//by user "tdsepsilon" 
-
-//I also used the documentation and example codes of the HX711 library and the Adafruit_MPU6050 library.
-
 //import all librarys necessary
 #include "BLEDevice.h"
 #include "BLEUtils.h"
